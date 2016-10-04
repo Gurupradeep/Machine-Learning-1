@@ -1,0 +1,63 @@
+#Here are some useful links
+RANDOM FORESTS :
+https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
+https://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/ 
+
+XGBoosting:
+https://www.analyticsvidhya.com/blog/2016/01/xgboost-algorithm-easy-steps/
+http://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html
+http://xgboost.readthedocs.io/en/latest/model.html
+https://www.r-bloggers.com/an-introduction-to-xgboost-r-package/
+https://www.youtube.com/watch?v=Og7CGAfSr_Y - Optimisation with repeated cross validation
+
+ENSEMBLING VIDEOS:
+https://www.youtube.com/watch?v=Yvn3--rIdZg 
+https://www.youtube.com/watch?v=wPqtzj5VZus - Trevor Hastie Gradient Boosting
+
+
+PIPES AND FILTERS IN R:
+http://www.google.com/url?q=http%3A%2F%2Fblog.revolutionanalytics.com%2F2014%2F07%2Fmagrittr-simplifying-r-code-with-pipes.html&sa=D&sntz=1&usg=AFQjCNFPwSp2UZLy4IIMltRb2dIVnUmMQw 
+
+GRADIENT BOOSTING:
+https://www.quora.com/What-is-an-intuitive-explanation-of-Gradient-Boosting
+
+DummyVars :
+http://amunategui.github.io/dummyVar-Walkthrough/
+
+Cross Validation:
+
+http://machinelearningmastery.com/how-to-estimate-model-accuracy-in-r-using-the-caret-package/
+http://gerardnico.com/wiki/r/cross_validation
+https://www.r-bloggers.com/cross-validation-for-predictive-analytics-using-r/
+https://www.analyticsvidhya.com/blog/2015/05/k-fold-cross-validation-simple/
+
+Bias,Variance, k fold cross validation :
+https://www.r-bloggers.com/cross-validation-for-predictive-analytics-using-r/
+
+KNN algorithm:
+https://www.youtube.com/watch?v=UqYde-LULfs
+https://www.youtube.com/watch?v=Y4ZgLlDfKDg&list=PLBv09BD7ez_48heon5Az-TsyoXVYOJtDZ&index=15
+https://www.analyticsvidhya.com/blog/2015/08/learning-concept-knn-algorithms-programming/
+
+Voronoi diagram :
+https://en.wikipedia.org/wiki/Voronoi_diagram
+
+ROC curves and AOC:
+https://www.youtube.com/watch?v=OAl6eAyP-yo
+https://www.r-bloggers.com/illustrated-guide-to-roc-and-auc/
+https://www.r-bloggers.com/an-example-of-roc-curves-plotting-with-rocr/
+
+Clustering :
+Hierarchical clustering: https://www.r-bloggers.com/hierarchical-clustering-in-r-2/
+K means:
+	 https://www.r-bloggers.com/k-means-clustering-in-r/
+	 https://www.r-bloggers.com/k-means-clustering-from-r-in-action/
+
+Distance Matrix used in Hierarchical clustering - http://www.r-tutor.com/gpu-computing/clustering/distance-matrix
+						  https://www.youtube.com/watch?v=3cub1laiFeU
+
+Cross Validation for randomforests 
+- http://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm#ooberr ( read about why cv is not necessary for random forests)
+- use rfcv for feature selection  : http://stackoverflow.com/questions/19760169/how-to-perform-random-forest-cross-validation-in-r
+                                    https://www.rdocumentation.org/packages/randomForest/versions/4.6-12/topics/rfcv
+Cluster Dendrograms- https://www.youtube.com/watch?v=4OnfJmC-aUI
