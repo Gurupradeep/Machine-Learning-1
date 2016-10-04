@@ -1,0 +1,20 @@
+setwd("E:/Computer Engg/Machine learning/RScripts");
+train<-read.csv("train.csv");
+library(rpart)
+tree<-rpart(as.factor(Cover_Type)~.,data=train,method="class",control=rpart.control(minsplit=50,cp=0))
+pfit<- prune(tree, cp=tree$cptable[which.min(tree$cptable[,"xerror"]),"CP"])
+plot(tree)
+text(tree)
+plot(pfit)
+text(pfit)
+library(randomForest)
+forest<-randomForest(Cover_Type~.,data=train,importance=TRUE,ntree=500)
+library(rattle)
+#library(RColorBrewer)
+#library(rpart.plot)
+#fancyRpartPlot(tree)
+test<-read.csv("test.csv")
+my_prediction<-predict(forest,test,type="class")
+answer<-data.frame(Id=test$Id,Cover_Type=my_prediction)
+write.csv(answer,file="solution.csv",row.names=FALSE)
+
