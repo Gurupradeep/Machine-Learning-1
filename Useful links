@@ -50,6 +50,8 @@ ROC curves and AOC:
 https://www.youtube.com/watch?v=OAl6eAyP-yo
 https://www.r-bloggers.com/illustrated-guide-to-roc-and-auc/
 https://www.r-bloggers.com/an-example-of-roc-curves-plotting-with-rocr/
+https://cran.r-project.org/web/packages/ROCR/ROCR.pdf
+http://stackoverflow.com/questions/11467855/roc-curve-in-r-using-rocr-package
 
 Clustering :
 Hierarchical clustering: https://www.r-bloggers.com/hierarchical-clustering-in-r-2/

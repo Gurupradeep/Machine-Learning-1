@@ -1,0 +1,7 @@
+install.packages("ROCR")
+library(ROCR)
+data(ROCR.simple)
+print(ROCR.simple$labels)
+pred <- prediction( ROCR.simple$predictions, ROCR.simple$labels)
+perf <- performance(pred,"tpr","fpr")
+plot(perf)
