@@ -25,3 +25,5 @@ clusterCut <- cutree(clusters, 3)
 #Check the accuracy of results
 table(clusterCut, iris$Species)
 
+#Print the dunn's index
+dunn(dist,clusterCut)
