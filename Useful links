@@ -1,4 +1,6 @@
-#Here are some useful links
+ML Basics: https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/
+Common ML Algorithms: https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/
+
 RANDOM FORESTS :
 https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
 https://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/ 
@@ -38,6 +40,8 @@ KNN algorithm:
 https://www.youtube.com/watch?v=UqYde-LULfs
 https://www.youtube.com/watch?v=Y4ZgLlDfKDg&list=PLBv09BD7ez_48heon5Az-TsyoXVYOJtDZ&index=15
 https://www.analyticsvidhya.com/blog/2015/08/learning-concept-knn-algorithms-programming/
+https://www.analyticsvidhya.com/blog/2014/10/introduction-k-neighbours-algorithm-clustering/
+https://predictoanalycto.wordpress.com/2014/06/05/classification-using-k-nearest-neighbour-knn-algorithm-in-r-programming-languagepart-1/
 
 Voronoi diagram :
 https://en.wikipedia.org/wiki/Voronoi_diagram
