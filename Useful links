@@ -73,3 +73,6 @@ For Text Classification :
 
 https://rstudio-pubs-static.s3.amazonaws.com/31867_8236987cf0a8444e962ccd2aec46d9c3.html
 (Read the above link for understanding the steps required for any text classification problem)
+
+
+https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf (To know more about TM package)
