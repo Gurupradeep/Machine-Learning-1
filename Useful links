@@ -67,3 +67,9 @@ Cross Validation for randomforests
 - use rfcv for feature selection  : http://stackoverflow.com/questions/19760169/how-to-perform-random-forest-cross-validation-in-r
                                     https://www.rdocumentation.org/packages/randomForest/versions/4.6-12/topics/rfcv
 Cluster Dendrograms- https://www.youtube.com/watch?v=4OnfJmC-aUI
+
+
+For Text Classification :
+
+https://rstudio-pubs-static.s3.amazonaws.com/31867_8236987cf0a8444e962ccd2aec46d9c3.html
+(Read the above link for understanding the steps required for any text classification problem)
