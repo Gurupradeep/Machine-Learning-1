@@ -1,7 +1,7 @@
 This is a readme file explaining the method used for prediction of income for the given testing data.
 
 
-#Data Cleaning
+# Data Cleaning
 
 The features were analyzed and the missing values were replaced accordingly. 
 For "age", there were no missing values. Nonetheless, it was replaced with the mean of the age values in both the training and testing datasets.
